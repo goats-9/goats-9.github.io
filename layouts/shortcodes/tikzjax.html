@@ -1,0 +1,10 @@
+<span id="{{.Get `label`}}"></span>
+<figure>
+<div style="display: flex; justify-content: center;">
+<script type="text/tikz">
+    {{ .Inner }}
+</script>
+</div>
+</br>
+<figcaption style="text-align:center;">{{.Get `caption`}}</figcaption>
+</figure>
