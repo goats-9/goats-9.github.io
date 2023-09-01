@@ -9,7 +9,7 @@ Diabetic Warrior with a fighter spirit and a never say die attitude.
 
 ## Education
 
-Prenestly, I am an undergraduate student studying at the Indian Institute of 
+Presently, I am an undergraduate student studying at the Indian Institute of 
 Technology, Hyderabad ([IITH](https://iith.ac.in)) in the Department of 
 Computer Science and Engineering ([CSE](https://cse.iith.ac.in)). I opened the 
 institute's rankings with an All India Rank (AIR) of 191 in the General/Open 
