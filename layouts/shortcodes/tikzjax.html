@@ -2,7 +2,11 @@
 <figure>
 <div style="display: flex; justify-content: center;">
 <script type="text/tikz">
+    \begin{tikzpicture}[color=white,level distance=3em,level/.style={sibling distance=5em/#1}]
+
     {{ .Inner }}
+
+    \end{tikzpicture}
 </script>
 </div>
 </br>
