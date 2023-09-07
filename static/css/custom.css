@@ -1,3 +1,10 @@
 .page__body {
     text-align: justify;
 }
+table {
+    border-collapse: collapse;
+}
+td, th {
+  border: 1px solid white;
+  padding: .2em;
+}
