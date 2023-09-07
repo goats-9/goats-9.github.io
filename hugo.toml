@@ -40,13 +40,12 @@ icon = "fa-brands fa-linkedin"
 title = "LinkedIn"
 url = "https://www.linkedin.com/in/gautam-singh-046921242/"
 
-#[menu]
-#
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "whoami"
-#    url = "/about/"
-#    weight = 14
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "whoami"
+    url = "/about/"
 
 [taxonomies]
 category = "categories"
