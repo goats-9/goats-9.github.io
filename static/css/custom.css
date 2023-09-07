@@ -6,8 +6,8 @@ table {
 }
 td, th {
   border: 1px solid #a9b1d6;
-  padding: .2em;
+  padding: .5em;
 }
 th:first-child, td:first-child {
-  padding-left: .2em;
+  padding-left: .5em;
 }
