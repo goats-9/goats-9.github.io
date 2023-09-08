@@ -11,7 +11,7 @@ toc: true
 
 ### Input
 
-1. CSV file with \\(m+2\\) rows and \\(n+1\\) columns in the form
+1. Excel file with \\(m+2\\) rows and \\(n+1\\) columns in the form
 \begin{equation}
 \myvec{\vec{c}^{\top} & 0 \\\\ \vec{\vec{z}}^{\top} & 0 \\\\ \vec{A} & \vec{b}}
 \end{equation}
