@@ -19,9 +19,6 @@
                     norm: ["\\left\\lVert", "\\right\\rVert"],
                     floor: ["\\lfloor", "\\rfloor"],
                     ceil: ["\\lceil", "\\rceil" ],
-                    pr: ["\\Pr\\left(", "\\right)"],
-                    qfunc: ["Q\\left(", "\\right)"],
-                    mean: ["E\\left[", "\\right]"],
                 },
             },
             packages: {
@@ -51,7 +48,12 @@
                 argmax: "\\DeclareMathOperator\*{\\argmax}{\\arg\\!\\max\\ }",
                 vec: "\\mathbf",
                 yld: "\\rightarrow",
-                drv: "\\xrightarrow{\*}"
+                drv: "\\xrightarrow{\*}",
+                random: "\\in\_{R}",
+                pr: ["\\Pr\\left( #1 \\right)", 1],
+                prs: ["\\Pr\\left[ #1 \\right]", 1],
+                qfunc: ["Q\\left( #1 \\right)", 1],
+                mean: ["E\\left[ #1 \\right]", 1],
             },
         },
     };
