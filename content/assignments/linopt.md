@@ -46,7 +46,8 @@ Same as assignment 1
 
 ## Statement
 
-Here, we assume that the polytope is unbounded and \\(A\\) is non-degenerate and rank of \\(A\\) is \\(n\\).
+Here, we assume that the polytope is unbounded and \\(A\\) is non-degenerate and
+rank of \\(A\\) is \\(n\\).
 
 ## Algorithm
 
@@ -55,7 +56,10 @@ Here, we assume that the polytope is unbounded and \\(A\\) is non-degenerate and
 2. while (\\(\vec{z}\\) is not a vertex):
     * divide \\(A\\) into tight rows \\(A\_1\\) and untight rows \\(A\_2\\).
     * Let \\(S\\) be the null space of \\(A\_1\\), and choose any \\(u \in S\\).
-    * **Note:** Since the polytope is unbounded, we cannot move in the direction of \\(u\\) and guarantee that we reach a vertex. Instead, we move opposite to \\(u\\) i.e. \\(\vec{z} \leftarrow \vec{z} - \alpha u\\). This is because \\(A\\) has rank \\(n\\).
+    * **Note:** Since the polytope is unbounded, we cannot move in the direction
+      of \\(u\\) and guarantee that we reach a vertex. Instead, we move opposite
+      to \\(u\\) i.e. \\(\vec{z} \leftarrow \vec{z} - \alpha u\\). This is
+      because \\(A\\) has rank \\(n\\).
 
 3. while (\\(\vec{z}\\) is not an optimum vertex):
     * Let \\(A\_1\\) be tight rows and \\(A\_2\\) be untight rows.
@@ -64,4 +68,5 @@ Here, we assume that the polytope is unbounded and \\(A\\) is non-degenerate and
     * Let cost \\(c = \sum\_{i=1}^n\alpha\_iR\_i\\).
     * Suppose \\(\alpha\_j\\) is negative for some \\(j\\).
     * \\(\vec{z} \leftarrow \vec{z} - \beta C\_j\\) where \\(\beta > 0\\).
-    * **Note:** If objective function keeps increasing, then cost is unbounded, output error appropriately. 
+    * **Note:** If objective function keeps increasing, then cost is unbounded,
+      output error appropriately. 
