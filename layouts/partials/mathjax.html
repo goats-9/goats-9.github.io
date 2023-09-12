@@ -53,7 +53,11 @@
                 pr: ["\\Pr\\left( #1 \\right)", 1],
                 prs: ["\\Pr\\left[ #1 \\right]", 1],
                 qfunc: ["Q\\left( #1 \\right)", 1],
-                mean: ["E\\left[ #1 \\right]", 1],
+                mean: ["\\mathbb{E}\\left[ #1 \\right]", 1],
+                diff: ["\\frac{d}{d #1} #2", 2],
+                pdiff: ["\\frac{\\partial}{\\partial #1} #2", 2],
+                cov: "\\textrm{Cov}",
+                vr: "\\textrm{Var}",
             },
         },
     };
