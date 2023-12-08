@@ -4,10 +4,14 @@ date: 2023-07-14T03:20:18Z
 draft: false
 ---
 
-Hi there! My name is Gautam Singh. I am a 19 years old male. I am a Type 1
-Diabetic Warrior with a fighter spirit and a never say die attitude.
+Hi there! My name is Gautam Singh. I am a Type 1 Diabetic Warrior with a fighter
+spirit and a never say die attitude.
 
 ## Education
+
+I did my primary education at [Meridian School, Banjara
+Hills](https://meridianbanjara.com/) and my secondary and senior secondary
+education at [DDMS P Obul Reddy Public School](https://www.amsporps.org). 
 
 Presently, I am an undergraduate student studying at the Indian Institute of 
 Technology, Hyderabad ([IITH](https://iith.ac.in)) in the Department of 
@@ -27,3 +31,4 @@ My hobbies include (in no particular order):
 - Embedded systems (Arduino/ESP, ARM, FPGA)
 - Playing around with my website :)
 
+## Achievements
