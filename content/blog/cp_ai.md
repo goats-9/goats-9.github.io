@@ -19,17 +19,18 @@ chess engines such as IBM Stockfish 8, it drew a huge reaction from the chess
 and chess programming community.
 
 Another such wave might be starting in the competitive programming (CP)
-community. Competitive programming is a fun (in my opinion) sport where
-contestants have a fixed amount of time to code a solution to a problem in
+community. Competitive programming is (in my opinion) a fun sport where
+contestants have a fixed amount of time to code solutions to sets of problems in
 general-purpose programming languages like C, C++, Python, Rust, Java and so on,
 under constraints on input, runtime limit and memory limit. Many online sites
 such as [Codeforces](https://codeforces.com),
 [CodeChef](https://www.codechef.com/) and [CodeDrills](https://codedrills.io/)
-have online judges that compile and run submitted code on test cases to verify
-if the problem has been solved by the contestant. Codeforces have a rating
-system where your rating is a result of your performance in live contests hosted
-regularly on that platform. Perhaps the most prestigious on-site CP contest is
-the International Collegiate Programming Contest [(ICPC)](https://icpc.global).
+have online judges that compile and run submitted code in many programming
+languages on multiple public and private test cases to verify if the problem has
+been solved by the contestant. Codeforces have a rating system where your rating
+is a result of your performance in live contests hosted regularly on that
+platform. Perhaps the most prestigious on-site CP contest is the International
+Collegiate Programming Contest [(ICPC)](https://icpc.global).
 
 ## AlphaCode and CP
 
