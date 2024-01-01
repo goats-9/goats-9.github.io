@@ -3,7 +3,7 @@ title: "Artificial Intelligence in Competitive Programming"
 date: 2023-12-08T06:17:46+05:30
 draft: false
 toc: true
-tags: ['competitive-programming', 'artificial-intelligence']
+tags: ['competitive-programming', 'artificial-intelligence', 'ai', 'cp']
 ---
 
 One of the benchmarks for progress in Artificial Intelligence (AI) is games
