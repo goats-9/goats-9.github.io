@@ -1,5 +1,5 @@
 ---
-title: "docker on Android Part 3: Building docker"
+title: "Docker on Android Part 3: Building docker"
 date: 2023-12-27T12:18:10+05:30
 draft: false
 toc: true

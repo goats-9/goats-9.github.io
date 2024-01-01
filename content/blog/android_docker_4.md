@@ -1,5 +1,5 @@
 ---
-title: "docker on Android Part 4: Installing and Running docker"
+title: "Docker on Android Part 4: Installing and Running docker"
 date: 2023-12-27T12:18:12+05:30
 draft: false
 toc: true
