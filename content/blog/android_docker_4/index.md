@@ -27,7 +27,7 @@ sudo dockerd --iptables=false
 
 You should receive something like this:
 
-![dockerd](../../static/images/dockerd.png)
+![dockerd](./images/dockerd.png)
 
 Now for the moment of truth! In another terminal window, run docker itself
 
@@ -36,7 +36,7 @@ sudo docker run --rm hello-world
 ```
 If all goes well, you should see something like this
 
-![docker](../../static/images/docker.png)
+![docker](.images/docker.png)
 
 Congratulations, you have successfully built and run docker by modifying your
 phone kernel!

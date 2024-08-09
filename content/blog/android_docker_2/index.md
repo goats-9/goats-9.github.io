@@ -90,7 +90,7 @@ sudo ./check-config.sh
 You will now receive an output which shows the missing kernel features that we
 need to enable. It looks something like this for me:
 
-![Check Config](../../static/images/check_config.png)
+![Check Config](./images/check_config.png)
 
 The laborious part is to copy the missing options to the config file. To speed
 things up here, use software such as
@@ -142,6 +142,6 @@ and flash LineageOS to your phone again with the new `boot.img` file and the
 Just to be sure that your phone kernel has been modified, run the modified
 `check_config.sh` script as before. You should see more green than red!
 
-![Check Config After](../../static/images/check_config_after.png)
+![Check Config After](./images/check_config_after.png)
 
 Move on to the next step to finally install and run docker!
