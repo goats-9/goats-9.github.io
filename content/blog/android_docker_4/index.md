@@ -36,7 +36,7 @@ sudo docker run --rm hello-world
 ```
 If all goes well, you should see something like this
 
-![docker](.images/docker.png)
+![docker](./images/docker.png)
 
 Congratulations, you have successfully built and run docker by modifying your
 phone kernel!
